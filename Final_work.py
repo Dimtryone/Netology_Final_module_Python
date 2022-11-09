@@ -67,8 +67,8 @@ vk_client = VKCustomer(example_user_ID)
 vk_client.get_token()
 vk_client.get_photos()
 
-print('the end')
-
+print('happy end')
+    
 
 #OWNER_ID = '2481318'
 #URL_PHOTOS = 'api.vk.com/method/photos.get'
